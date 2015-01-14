@@ -18,13 +18,13 @@
 
 **ls** -- shows files contained in current directory
 
-## Markdown stuff
+## Markdown 
 
 **Hash** --  marks as a header (extra hashes creates sub headings)
 
 **hypertext** -- `[desired title](FileName.md)`
 
-**unformatted code** -- `desired code here` 
+**code sans format** -- `desired code here` 
 
 **Link** `[title!](address.com"HoverNote")`
 
