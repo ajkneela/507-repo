@@ -57,10 +57,12 @@ Markdown
 
 **--no-parent** -- limits recursive retrieval to the last parent directory
 
-**-l 2 (or three or four etc.) ** -- specifies the number of links you want to follow.
+**-ls s** -- specifies the number of links you want to follow.
 
 **-w 10** -- 10 specifies the seconds to wait between server requests. 
 
 **––random-wait** -- randomly varies the time between server requests between .5 and 1.5 seconds
 
 **--limit-rate=20k** -- limits bandwith required of a server 
+
+**-m** -- mirrors an entire website
