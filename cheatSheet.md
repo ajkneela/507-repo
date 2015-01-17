@@ -27,7 +27,22 @@ corresponding local document (must be in corresponding directory?)
 
 **ls** -- shows files contained in current directory
 
-Markdown
+**mkdir** -- create a directory in current location
+
+**mkdir NewFolderName** -- self explanatory
+
+**rm FileName OR Directory Name** -- delete file
+
+### ls optional modifiers
+**-1** -- List 1 item per line
+
+**-a** -- Show Everything, including hidden items
+
+**-d** -- list only directories
+
+**-l** -- Use a long listing format (more info per item, arranged in columns, vertical listing)
+
+##Markdown
 --------
 
 **Hash** -- marks as a header (extra hashes creates sub headings)
@@ -66,3 +81,7 @@ Markdown
 **--limit-rate=20k** -- limits bandwith required of a server 
 
 **-m** -- mirrors an entire website
+
+##Sources/links: 
+
+[Basic Git Command Line for Windows](http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users "A solid resource of basic commands")
