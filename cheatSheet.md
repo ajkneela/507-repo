@@ -43,25 +43,6 @@ corresponding local document (must be in corresponding directory?)
 
 **-l** -- Use a long listing format (more info per item, arranged in columns, vertical listing)
 
-##Markdown
---------
-
-**Hash** -- marks as a header (extra hashes creates sub headings)
-
-**hypertext** -- `[desired title](FileName.md)`
-
-**code sans format** -- `desired code here`
-
-**Link** `[title!](address.com"HoverNote")`
-
-**italics** -- `*italics*`
-
-**Bold text** -- `**Bold**`
-
-**Block text** -- `>Blocktext`
-
-**Image** -- `![title](picfile.filetype)`
-
 ##Command Line
 
 **Pandoc conversion** -- `pandoc -o filename.desiredfiletype filename.currentfiletype`
@@ -106,3 +87,22 @@ corresponding local document (must be in corresponding directory?)
 ##Sources/links: 
 
 [Basic Git Command Line for Windows](http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users "A solid resource of basic commands")
+
+##Markdown
+--------
+
+**Hash** -- marks as a header (extra hashes creates sub headings)
+
+**hypertext** -- `[desired title](FileName.md)`
+
+**code sans format** -- `desired code here`
+
+**Link** `[title!](address.com"HoverNote")`
+
+**italics** -- `*italics*`
+
+**Bold text** -- `**Bold**`
+
+**Block text** -- `>Blocktext`
+
+**Image** -- `![title](picfile.filetype)`
