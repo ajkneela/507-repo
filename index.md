@@ -33,6 +33,46 @@ I suppose I ultimately take issue with Galloway’s assumption that being a node
 
 ## Annotated Bibliography
 
+**Primary Sources**
+As my project is essentially a prototype of a game, differing widely from the more navigable (and perhaps more academically rigorous) work of digital text/visual analysis, I have no "primary sources" per se. 
+
+**Secondary Sources**
+Amanita Design. Botanicula. Amanita Design, 5/02/2014. iOS.
+Primary Claim: You play as a group; most action is prompted but takes place without your guidance—no “mastery” over gameplay. 
+Relevance: Models one way to downplay the subject position of the player, does away with any idea of “mastery,” is still recognizably an entertaining game without centralizing the player. 
+
+Bennet, Jane. Vibrant Matter: A Political Ecology of Things. Durham : Duke University Press, 2010.
+Primary Claim: Matter is an active and agentive force, and when so considered it has significant impact on social and political thought. 
+Relevance: Curiosity *re* how to explore and represent Bennett’s ideas drive this project. 
+
+Bogost, Ian. Alien Ontology, or, What It’s Like to be a Thing. Minneapolis: U of Minnesota, 2012. Print. 
+Primary Claim: Posits a flat ontology which necessitates speculative thought and a position of wonder. 
+Relevance: Bogost’s exploration of difference, specifically as it relates to being thinkers-as-gamemakers, is a nice corollary to Bennet’s vibrant materialism. 
+--Persuasive Games
+Primary Claim: Games can construct a process to make an argument—procedural rhetoric. “Rules of execution” are potentially expressive and persuasive.
+Relevant: Bogost explores exactly how games argue in different context with a great deal of specific games as examples. 
+
+Chang, Edmond Y. “Gaming as Writing, or, World of Warcraft as World of Wordcraft.” Computers and Composition Online, 2008. Web. 
+Primary Claim: Video games, like writing, are critical, and algorithms and analysis of texts are simply different manifestations of intellectual and critical thought.
+Relevance: Explores the ways in which a game can manifest and explore an idea and make new claims in ways similar to academic essays. 
+
+Flusser, vilhém & Bec, Louis. Vampyroteuthis Infernalis: A Treatise with a Report by the Institut Scientifique de Recherche Paranaturaliste. Trans. Valentine A. Pakis. Minneapolis: U of Minnesota, 2012. Print. 
+Primary Claim: Imagines the ontology of cephalopods who evolved with a body spiraling inward rather than stretching upward.
+Relevance: The complete reconceptualization of the world in a rigorously ludic exercise is similar to the devising a physics engine for a game world.  
+
+Latour, Bruno. “A Cautious Prometheus? A Few Steps Toward a Philosophy of Design (with Special Attention to Peter SLoterdijk). Proceedings of the 2008 Annual International Conference of the Design History Society – Falmouth, 3-6 September 2009. Universal Pub, 2009. Web. 
+Primary Claim: “Design,” as opposed to “create” is ethically concerned, emphasizes the importance of things, and begs for a better method of representing things’ complexity.
+Relevance: The least practical of these selections certain thoughts on design and digital tools are useful when considering the process of prototyping. 
+
+Snyder, Ian. The Floor is Jelly. 5/30/14. PC. 
+Primary Claim: Things would be bouncy if the world was made of gelatin
+Relevance: The game models a reimagined reality and highlights the importance of the physics engine in a game-argument.  
+
+Thatgamecompany. flOw. Jenova Chen, 4/14/2006. Adobe Flash.
+Primary Claim: player’s character changes based on consumption of surroundings, calling into question who or what the player is. 
+Relevance: While not especially dramatic, the destabilization of the form the player takes/inhabits is of interest to a project hoping to reframe the subject-environment relationship.
+
+
 ## Thought Piece
 
 ###4 February, 2015, Edited
