@@ -106,3 +106,5 @@ corresponding local document (must be in corresponding directory?)
 **Block text** -- `>Blocktext`
 
 **Image** -- `![title](picfile.filetype)`
+
+**ctrl + Shift + P** -- command palette (use for browser previews, e.g.)
