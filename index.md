@@ -37,7 +37,7 @@
 ![preliminary co-occurrence network](networkproto.jpg)
 
 **Using the Data**
-I’m using a  co-occurrence network, supported by targeted close reading, to argue that Mary Russell Mitford’s animal characters do not only serve as social links between characters of different classes but also participate in social relationships. Additionally, my preliminary topic model indicates that discussions of flora and fauna of the village often appear in clusters with affect. Both data sets support the claim that Mitford is socializing the landscape and trying to frame the rural village as a place where unique forms of relationship and affect can be experienced because of the interactions that are possible in that space.
+I’m using a  co-occurrence network and selected close reading to argue that Mary Russell Mitford’s animal characters do not only serve as social links between characters of different classes but also participate in social relationships. Additionally, my preliminary topic model indicates that discussions of flora and fauna of the village often appear in clusters with affect. Both data sets support the claim that Mitford is socializing the landscape and trying to frame the rural village as a place where unique forms of relationship and affect can be experienced because of the interactions that are possible in that space.
 The final product will likely not be discoverable but instead submitted via github, technically public but no doubt difficult to actually find. None of the data, therefore, will be discoverable publically, although they may be discussed in the body of the essay, as content and length allow.
  
 
