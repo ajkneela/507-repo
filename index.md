@@ -1,5 +1,47 @@
 # A. J. Kneeland ENGL 507 Research Log
 
+## 16 March, 2015 Prototype
+### Data
+**Topic Model (Preliminary)**
+0   -1.001  honest motion stamped thin sounds cheerful wear sporting weary warmth holly sturdy straggling smiling death clock post state water 
+
+1   -1.001  completely woodbine macready holding hath shape mistress rick filling afternoon mine shrine queen dark lanes simplicity apt fall wives 
+
+2   -1.001  miss mitford good beautiful great day pretty house long white poor life lizzy time trees village side father flowers 
+
+3   -1.001  books spreading timber expected emerald hollyhocks worthy understand youth dance sharing tremulous scolding hears closely precious walton mimic awed 
+
+4   -1.001  hidden send orange thickly stood heaven whip strain ready dinner briony hardy pulling merits ditch haunt mistress obstinacy branch 
+
+5   -1.001  stand favour future rapidly duration sloping nook style dignity possessed america chance rising coach innocent admiration devotion moving resignation 
+
+6   -1.001  faster human instrument lawn branches frugal cure opposite worth nightingale progress terrible press woods sex difficult ways letter grazing 
+
+7   -1.001  walk fly expression daughter won begins complexion fearless brick doubt quiet dress abode fame hearted cowper witness prosperous worst 
+
+8   -1.001  shouting vie grave return desire discovered disturb bounding marry stream returning pheasant destitution leaning beat train descending wet aquatic 
+
+9   -1.001  formed romantic mile scenes houses admired sorts fairies begun hedgehog embosomed palms tufts tint catch odour desolation cradle bushes 
+
+10  -1.001  hue table samuel rushes specimen waggon pattens live kemble tufted affronted feminine weed bipeds sloping porch hole lands gin 
+
+11  -1.001  lips gipsy instinct called grounds kennel humoured falls wishes scene sadly engaged imagine proper sold set attend bought admiration \
+
+12  -1.001  describes picking pat redbreast mouth proceed attention doubt defined gown list curls mr imperceptibly wedding youngest proceeded separated ground 
+
+13  -1.001  daddy mossy rogue wet blossomed season bare tenant happened speaking drawing enthusiastic woman back james life mrs great intensity 
+
+14  -1.001  god fallen wit suppose indoors thaw woody constable warrant laid la sign distinction imagine books fluttering personage august distant 
+
+**Co-occurrence Network**
+![preliminary co-occurrence network](networkproto.jpg)
+
+**Using the Data**
+I’m using a  co-occurrence network, supported by targeted close reading, to argue that Mary Russell Mitford’s animal characters do not only serve as social links between characters of different classes but also participate in social relationships. Additionally, my preliminary topic model indicates that discussions of flora and fauna of the village often appear in clusters with affect. Both data sets support the claim that Mitford is socializing the landscape and trying to frame the rural village as a place where unique forms of relationship and affect can be experienced because of the interactions that are possible in that space.
+The final product will likely not be discoverable but instead submitted to the professor for simplicity's sake. None of the data, therefore, will be discoverable publically, although they may be discussed in the body of the essay, as content and length allow.
+ 
+
+
 ## 3 March, 2015 Abstract 
 **Homewords—Textual Landscapes and the Victorian Ecotone in Mary Russell Mitford’s Our Village**
 
