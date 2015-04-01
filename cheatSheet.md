@@ -45,7 +45,13 @@ corresponding local document (must be in corresponding directory?)
 
 ##Command Line
 
+**Pandoc command analysis** --pandoc test1.md -f markdown -t (transfer) html -s (makes the file function as a whole document on the webpage; w.out it, it's just the body html) -o (-o is output as) test1.html
+
+**crtl x commands** -- must be on a new line (shift + enter)
+
 **Pandoc conversion** -- `pandoc -o filename.desiredfiletype filename.currentfiletype`
+
+**Conversion to pdf** -- pandoc test1.md (File to be converted) -s -o (outputted as) test1.pdf
 
 **cd ..** -- go up one level in a directory.
 
@@ -108,3 +114,6 @@ corresponding local document (must be in corresponding directory?)
 **Image** -- `![title](picfile.filetype)`
 
 **ctrl + Shift + P** -- command palette (use for browser previews, e.g.)
+
+**Bonus**
+LaTex is pronounced LawTech
