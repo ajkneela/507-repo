@@ -64,6 +64,7 @@ Cross. If May does not herself “love,” “look,” or “think,” she is at
 least prominently situated within the web of village social life and
 activity.
 
+![Mitford Co-Occurrence](networkproto.jpg)
 Figure - Co-occurrence of proper nouns and verbs; a thicker edge denotes
 frequency of co-occurrence; a pink node indicates greater frequency of
 use and blue less frequency; minimum term frequency is 25
